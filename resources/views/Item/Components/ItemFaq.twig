@@ -1,0 +1,9 @@
+{% if item.properties %}
+  {% for property in item.properties %}
+    {% if property.backendName == "SEO/FAQ" %}
+      <div class="gowear-faq-content">
+        {{ property.value | raw }}
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}

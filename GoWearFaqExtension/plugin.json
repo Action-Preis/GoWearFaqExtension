@@ -1,0 +1,13 @@
+{
+    "name": "GoWearFaqExtension",
+    "namespace": "GoWearFaqExtension",
+    "type": "template",
+    "creationDate": "2025-07-01",
+    "author": "Go Wear",
+    "pluginSetCompatible": true,
+    "require": {},
+    "label": {
+        "de": "Go Wear FAQ Erweiterung",
+        "en": "Go Wear FAQ Extension"
+    }
+}

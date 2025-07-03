@@ -1,0 +1,5 @@
+name: GoWearFaqExtension
+plugin_set: ceres
+type: template
+namespace: GoWearFaqExtension
+version: 1.0.0
