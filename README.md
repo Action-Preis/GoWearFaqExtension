@@ -1,3 +1,3 @@
 # GoWearFaqExtension
 
-PlentyMarkets Plugin zur Anzeige von FAQ-Abschnitten in der Artikelbeschreibung im Akkordeon-Stil.
+Dieses Plugin fügt einen FAQ-Bereich im Akkordeon-Stil für Artikelbeschreibungen hinzu.

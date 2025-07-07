@@ -7,5 +7,9 @@
   "license": "MIT",
   "pluginSetCompatible": true,
   "serviceProvider": "",
-  "runOnBuild": false
+  "runOnBuild": false,
+  "web": false,
+  "templateFiles": [
+    "resources/views/faq-accordion.twig"
+  ]
 }
